@@ -1,0 +1,5 @@
+surfaceChemistryModel/basicChemistryModel/basicChemistryModel.C
+surfaceChemistryModel/BasicChemistryModel/BasicChemistryModels.C
+chemistrySolver/chemistrySolver/makeChemistrySolvers.C
+
+LIB = $(FOAM_USER_LIBBIN)/libSurfaceChemistryModel

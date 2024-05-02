@@ -1,0 +1,4 @@
+diffusivityModel/diffusionModel.C
+chapmanEnskog/chapmanEnskogModel.C
+constant/binaryConstantModel.C
+LIB = $(FOAM_USER_LIBBIN)/libBinaryDiffusionModel

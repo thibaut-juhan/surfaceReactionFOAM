@@ -1,0 +1,4 @@
+basicDiffusivityModel/basicDiffusivityModel.C
+constantModel/constantModel.C
+mixtureAverageModel/mixtureAverageModel.C
+LIB = $(FOAM_USER_LIBBIN)/libDiffusivityModel

@@ -1,0 +1,6 @@
+SOURCE = \
+diffusivityModel/diffusionModel.C \
+chapmanEnskog/chapmanEnskogModel.C \
+constant/binaryConstantModel.C \
+
+# sources

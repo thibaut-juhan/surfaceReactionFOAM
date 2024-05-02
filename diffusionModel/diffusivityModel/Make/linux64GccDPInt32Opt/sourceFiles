@@ -1,0 +1,6 @@
+SOURCE = \
+basicDiffusivityModel/basicDiffusivityModel.C \
+constantModel/constantModel.C \
+mixtureAverageModel/mixtureAverageModel.C \
+
+# sources

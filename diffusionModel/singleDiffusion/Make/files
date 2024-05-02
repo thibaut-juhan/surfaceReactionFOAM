@@ -1,0 +1,3 @@
+diffusionModel/singleDiffusionModel.C
+constant/singleConstantModel.C
+LIB = $(FOAM_USER_LIBBIN)/libSingleDiffusionModel
